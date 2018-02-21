@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This repo contains starter files and the finished project files for all the projects contained in the course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass ./Natours/starter/sass/main.scss ./Natours/starter/css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevencastroverde/css-scss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevencastroverde/css-scss/issues"
+  },
+  "homepage": "https://github.com/stevencastroverde/css-scss#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
