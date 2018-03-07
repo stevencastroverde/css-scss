@@ -19,5 +19,9 @@
   "homepage": "https://github.com/stevencastroverde/css-scss#readme",
   "devDependencies": {
     "node-sass": "^4.7.2"
+  },
+  "dependencies": {
+    "livereload": "^0.7.0",
+    "uninstall": "0.0.0"
   }
 }
